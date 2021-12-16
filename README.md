@@ -1,11 +1,11 @@
 <h3 align="center"> Abdelraman Al Shater</h3>
 <h3 align="center">A passionate fullstack developer from Egypt</h3>
 
-- 🔭 I’m currently working on [RouteList](https://route-list.herokuapp.com/)
+🔭 I’m currently working on [RouteList](https://route-list.herokuapp.com/)
 
-- 📫 How to reach me **shater_11@hotmail.com**
+📫 How to reach me **shater_11@hotmail.com**
 
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 ![Waffle.io](https://img.shields.io/badge/-javascript-F7DF1E?logo=javascript&logoColor=black)
 
 <h3 align="left">Connect with me:</h3>
